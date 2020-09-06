@@ -766,7 +766,7 @@ class Desempate {
 class nascimento {
    private int idade1;
     void calplone(int anonasc1, String nome) {
-     idade1 = 2019 - anonasc1;
+     idade1 = 2020 - anonasc1;
      if (idade1 < 18) {
      System.out.println("");
      System.out.println("Bom jogo pequeno, " + nome + "!");
@@ -786,7 +786,7 @@ class nascimento {
 class nascimento2 {
    private int idade2;
     void calpltwo(int anonasc2, String nome2) {
-     idade2 = 2019 - anonasc2;
+     idade2 = 2020 - anonasc2;
      if (idade2 < 18) {
      System.out.println("");
      System.out.println("Bom jogo pequeno, " + nome2 + "!");
