@@ -1,0 +1,99 @@
+Question 1 - Qual placa de expansão em um PC forneceria tolerancia a falhas de dados?
+
+a) Placa de captura
+
+b) Cartão SD
+
+c) Placa E/S
+
+d) Placa de RAID
+
+Question 1 - Em quantas camadas se divide o modelo de referencia OSI?
+
+a) 12 camadas
+
+b) 5 camadas
+
+c) 3 camadas
+
+d) 7 camadas
+
+Question 2 - Qual termo refere-se a técnica de aumentar a velocidade de um processador?
+
+a) Hyperthreading
+
+b) Throttling
+
+c) Multitasking
+
+d) Overcloking
+
+Question 2 - Que tipo de cabo de rede é usado por empresas de televisão para tranportar dados como sinais elétricos?
+
+a) Par trançado não blindado
+
+b) Par trançado blindado
+
+c) Fibra óptica
+
+d) Coaxial
+
+Question 3 - Em qual camada do modelo TCP/IP ocorre o roteamento?
+         
+a) Transporte
+
+b) Aplicação
+           
+c) Internet
+
+d) Acesso á rede
+
+Question 3 - Que termo é usado para descrever o processo de estabelecimento de uma conexão entre dois dispositivos Bluetooth?
+                        
+a) Unir
+
+b) Correspondencia
+                      
+c) Sincronizar
+            
+d) Pareamento
+
+Question 4 - Qual modelo de referencia divide as comunicações de rede em 7 camadas distintas é usada para manter os equipamentos e a interoperabilidade de aplicativos entre fornecedores diferentes?
+
+a) OSI
+
+b) TIA
+                           
+c) IEEE 802.3
+                           
+d) DoD
+
+Question 4 - O que é a tecnologia Broadcast?
+                     
+a) transmissão simultanea para todos os hosts na rede
+
+b) transmissão aleatória na rede
+
+c) modo de transferencia de arquivos mais rápido
+   
+d) modo de transferencia de arquivos mais rápidos
+
+Question 5 - Uma empresa está expandido seus negócios para outros países. Todas as filiais devem permanecer conectadas à sede da empresa em todos os momentos. Que tecnologia de rede é necessario para suportar este cenário?
+
+a) WAN
+
+b) LAN
+
+c) MAN
+                              
+d) WLAN
+
+Question 5 - Dos equipamentos de redes, qual tem a função de ecolher o melhor caminho para o envio da informação?
+           
+a) Switch
+
+b) Roteador
+                            
+c) Access Point
+                      
+d) Patch Panel
