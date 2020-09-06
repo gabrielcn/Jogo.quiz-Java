@@ -104,7 +104,7 @@ public class jogoquiz {
             }
 	    while (opc == 3) {
             Scanner obj = new Scanner(new File("sobreautor.txt"));
-            for (cont=1; cont<=5; cont++) {
+            for (cont=1; cont<=8; cont++) {
             System.out.println(obj.nextLine());
             }
             System.out.println("---------------------------------------------");
