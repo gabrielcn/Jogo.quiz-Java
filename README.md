@@ -2,4 +2,4 @@
 - ##### Quiz em java
 ## Autor:
 - ##### Gabriel Coni Félix Reis
-![](https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png)
+![](https://static.imasters.com.br/wp-content/uploads/2019/02/22154321/JAVA.jpg)
